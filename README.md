@@ -3,7 +3,8 @@
 
 ## 童十三
 前端 bug 工程师
-
+**正在学习**
+https://img.shields.io/badge/React-React-green
 <!--
 **Tongshisan/Tongshisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
