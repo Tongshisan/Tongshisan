@@ -9,7 +9,7 @@ on:
 
 jobs:
   update-readme:
-    runs-on: 
+    runs-on: macOS
     steps:
       - uses: athul/waka-readme@master
         with:
