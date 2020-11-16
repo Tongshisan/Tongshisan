@@ -1,15 +1,19 @@
-name: WakaTime Readme
 
+name: Waka Readme
+ 
 on:
   push:
     branches:
       - master
+  workflow_dispatch:
   schedule:
-    - cron: '0 19 * * *'
-
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+ 
 jobs:
   update-readme:
-    runs-on: macOS
+    name: Update this repo's README 
+    runs-on: ubuntu-latest
     steps:
       - uses: Tongshisan/waka-readme@master
         with:
