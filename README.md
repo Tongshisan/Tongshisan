@@ -3,8 +3,37 @@
 
 ## 童十三  
 前端 bug 工程师
-**正在学习**  
-![React](https://img.shields.io/badge/React-React-green)
+
+
+
+🌱 I’m currently learning ...
+
+![React](https://img.shields.io/badge/React-React-blue)![Vue3](https://img.shields.io/badge/Vue3-Vue3-brightgreen)![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript-blue)![nodejs](https://img.shields.io/badge/nodejs-nodejs-yellow)![http](https://img.shields.io/badge/http-http-blueviolet)![webpack](https://img.shields.io/badge/webpack-webpack-skyblue)
+![mobx](https://img.shields.io/badge/mobx-mobx-red) ![echarts](https://img.shields.io/badge/echarts-echarts-brightgreen)
+
+
+
+:eyes: ​ I want to do ...
+
+- [ ] 独立做一个完整 Vue3 的项目
+- [ ] 坚持每天刷题
+- [ ] 独立做一个完整的 React 项目
+- [ ] 阅读 Vue3 源码
+- [ ] 自己造简单的轮子
+- [ ] 每周读一本书
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Tongshisan/Tongshisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
