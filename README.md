@@ -8,8 +8,8 @@
 
 🌱 I’m currently learning ...
 
-![React](https://img.shields.io/badge/React-React-blue)![Vue3](https://img.shields.io/badge/Vue3-Vue3-brightgreen)![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript-blue)![nodejs](https://img.shields.io/badge/nodejs-nodejs-yellow)![http](https://img.shields.io/badge/http-http-blueviolet)![webpack](https://img.shields.io/badge/webpack-webpack-skyblue)
-![mobx](https://img.shields.io/badge/mobx-mobx-red) ![echarts](https://img.shields.io/badge/echarts-echarts-brightgreen)
+![React](https://img.shields.io/badge/React-React-blue)  ![Vue3](https://img.shields.io/badge/Vue3-Vue3-brightgreen)  ![TypeScript](https://img.shields.io/badge/TypeScript-TypeScript-blue)  ![nodejs](https://img.shields.io/badge/nodejs-nodejs-yellow)  ![http](https://img.shields.io/badge/http-http-blueviolet)  ![webpack](https://img.shields.io/badge/webpack-webpack-skyblue)
+  ![mobx](https://img.shields.io/badge/mobx-mobx-red)  ![echarts](https://img.shields.io/badge/echarts-echarts-brightgreen)
 
 
 
