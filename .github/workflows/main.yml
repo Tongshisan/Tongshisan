@@ -11,6 +11,6 @@ jobs:
   update-readme:
     runs-on: macOS
     steps:
-      - uses: athul/waka-readme@master
+      - uses: Tongshisan/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
